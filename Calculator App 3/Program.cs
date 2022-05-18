@@ -109,7 +109,7 @@ namespace Calculator_HW1
                     Console.WriteLine("An exception occurred while trying to calculate:\n" + e.Message);
                 }
 
-                Console.WriteLine("--------------------------\n");
+                Console.WriteLine("-----------------------------\n");
 
                 // Get user's input to decide if keep program running or close
                 Console.WriteLine("Press 'n' and Enter to close app, or press any other key to continue");
